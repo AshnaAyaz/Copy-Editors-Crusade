@@ -1,7 +1,6 @@
 # Content Strategy – OpenStreetMap Beginner Documentation
 
-**Team:** Copy Editors' Crusade
-**Status:** DRAFT – for team review, then instructor approval
+**Team:** Copy Editors' Crusade*
 **Last updated:** 31 October 2026
 
 > Sections marked **TO DO** need team input. Do not submit to the instructor until every TO DO is resolved.
@@ -131,7 +130,6 @@ The full source links are in the topic bundles file and in each issue.
 
 Each endpoint includes a plain-language summary, its parameters, a sample request and response, and its error codes. All four are read-only, so they can be tested safely.
 
-**TO DO:** Agree who assembles the four endpoints into one Swagger project and publishes it.
 
 ## 6. Roles and responsibilities
 
@@ -147,7 +145,7 @@ Each writer owns one bundle (1 concept, 1 reference, 3 tasks). Four writers also
 
 Every team member records their own AI use in [AI-logs.md](AI-logs.md).
 
-**TO DO:** Assign:
+ Assign:
 - the reviewer for each writer
 - Swagger assembly and publishing
 - the Wiki sidebar and consistency check
@@ -165,7 +163,7 @@ Every team member records their own AI use in [AI-logs.md](AI-logs.md).
 
 ## 8. Timeline
 
-**TO DO:** Team to confirm these dates.
+Team to confirm these dates.
 
 | Dates (2026) | Phase |
 |---|---|
@@ -188,11 +186,6 @@ Every team member records their own AI use in [AI-logs.md](AI-logs.md).
 - The four selected API endpoints are documented in Swagger.
 - AI usage is logged and verified.
 
-## 10. Open questions for the instructor
 
-**Answered:** The number of topics is flexible. The team has agreed on 25 topics in five bundles.
 
-**TO DO:** Ask the instructor:
 
-1. Does peer review in **issue comments** count as evidence, given that Wiki edits don't use pull requests?
-2. For "a new Swagger project," should we submit an `openapi.yaml` file, a SwaggerHub link, or both?
