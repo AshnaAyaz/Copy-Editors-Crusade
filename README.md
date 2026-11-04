@@ -40,7 +40,7 @@ Beginners who are new to OpenStreetMap and want to browse the map, understand OS
 | Belem | <!-- @username --> |
 | Kadria | @KadriaHussein |
 | Luigi Benetton | @LBenettonTCLoc |
-| Macwilliam Kwabena Appianing | <!-- @username --> |
+| Macwilliam Kwabena Appianing | <@appianingmk-hash |
 
 ## How we work
 
