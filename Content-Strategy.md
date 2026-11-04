@@ -85,7 +85,7 @@ Our topics are grouped into five bundles. Each bundle becomes one group in the W
 | What Are Map Notes? | Concept | Notes | #16 |
 | Map Note Markers and Statuses | Reference | Notes | #17 |
 | How to View Notes on the Map | Task | Notes › Viewing notes | #18 |
-| How to Resolve a Note | Task | Notes › Resolving notes | #19 |
+| How to Comment on a Note | Task | Notes › Viewing notes | #19 |
 | How to Add a Note to the Map | Task | Notes › Adding notes | #20 |
 
 ### Getting started with editing (Bundle C)
