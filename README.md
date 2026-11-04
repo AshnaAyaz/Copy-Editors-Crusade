@@ -29,7 +29,7 @@ Beginners who are new to OpenStreetMap and want to browse the map, understand OS
 | Peer review evidence | [Peer-Review-Summary.md](Peer-Review-Summary.md) |
 | All deliverables and status | [Deliverables.md](Deliverables.md) |
 | API documentation (Swagger) | [api/openapi.yaml](api/openapi.yaml) <!-- add the SwaggerHub link if used --> |
-| AI usage log | [AI-Usage-Log.md](AI-Usage-Log.md) |
+| AI usage log | [AI-Usage-Log.md](AI-log.md) |
 
 ## Team
 
