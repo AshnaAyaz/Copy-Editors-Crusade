@@ -18,3 +18,25 @@
 | 8 | Combining team work | "Combine my and Macwilliam's API work" | One SwaggerHub file with both endpoints and a Wiki "API Reference" page | Checked that Macwilliam's wording was kept | Kept Macwilliam's endpoint as he wrote it; did not change his examples |
 | 9 | Grammar and content check | "Check the grammar, clarity, and content of my Wiki pages and API documentation" | Suggested corrections for grammar, sentence length, consistent terms, and missing information | Read each suggestion against the original OSM pages and Jordan's templates before accepting it | Accepted fixes for grammar, broken links, and unclear wording; kept my own wording where the meaning was already clear; rejected changes that added content beyond the topic |
 | 10 | Peer review fixes | "Resolve these review comments" | Corrected page content | Re-read each page after saving | Applied only the reviewer's requested changes and kept the rest of the page as written |
+
+
+
+## AI usage, Macwilliam Appianing
+
+**Tool:** Claude (Anthropic)
+**Period:** October 23 to November 4, 2026
+**Topics:** What Are Map Notes? (#16), Map Note Markers and Statuses (#17), How to View Notes on the Map (#18), How to Comment on a Note (#19), How to Add a Note to the Map (#20), GET /api/0.6/notes (#38). Also peer reviews of colleagues' pages.
+
+### Summary of use
+
+I used Claude as a tutor and a drafting partner, and I stayed in control of the work. **I chose the scope, set the style I wanted, tested everything on the live website, took the screenshots, and wrote the final text of my audits and wiki pages.
+
+The table follows the order in which I worked: understanding GitHub and the team workflow, understanding the assignment, planning my own timeline, choosing topics, auditing, building the API documentation, writing the wiki pages, and combining my work.
+
+| # | Area | What I asked for (prompt, summarized) | What the AI produced | How I verified it | What I changed or rejected |
+|---|---|---|---|---|---|
+| 1 | Planning my own timeline | **I asked the AI to help me plan my own order of work for my part, before the November 5 presentation: topics, audit, wiki pages, Swagger, peer review.** | A draft work plan with the order of steps | **I checked it against the deadline and the team plan** | **I changed the order to fit my own time, and I did the work in the order that suited me** |
+| 2 | Audit and the quality framework | **I wrote the audit of the Notes page myself. Then I pasted my findings and prompted the AI to review them and confirm that they met Jordan's quality criteria (Helpful, Comprehensive, Usable, Visual, Readable, Searchable, Accessible), and that each finding had a clear fix.** I did this for each topic, for example when I asked it to polish my #19 audit after I changed the topic to "comment". | A review of my findings against the criteria, with suggested wording changes | **I read the original OSM page myself, took the "before" screenshots, and checked every finding and every suggestion against the page.** | I decided which suggestions to accept. The findings and the final audit text are mine. |
+| 3 | Learning the API task | **"Treat the API part as a complete follow along course, so I do it step by step as I learn what needs to be done for the project."** I also asked it to refer to Jordan's slides. | A step by step guide for SwaggerHub and OpenAPI | **I followed each step in SwaggerHub and sent a screenshot of my screen at each point.** The guide was then corrected to what I really saw | **When the first audit and Swagger were too complex, I asked to reset: "For my first project I want my audit and Swagger to be very simple. Identify a simple thing and do a simple Swagger."** I also asked for the code in small batches, **"so I see exactly what changes and what it does"** |
+| 4 | Building the Swagger documentation | **"The contact section is too messy. Keep it simple: if anyone needs information they can contact the API documentation team at my email, and they can visit our project page. Very clean, with the subheadings clearly bolded."** | An OpenAPI file for GET /api/0.6/notes with a summary, three parameters, a field table and XML and JSON examples | **I used Try it out and sent the real XML response file and screenshots of the XML and JSON views.** The AI could not open the OSM wiki itself, so **I supplied screenshots and PDFs of the wiki pages** | **I found that the XML example showed `&lt;` characters. The AI reproduced the problem and rebuilt the example from a schema.** I also showed a screenshot proving the AI wrong about when a tag appears, and it corrected itself |
+| 5 | Combined audit file | **"Give me all my audits in one file", because the team will build one Audit report.** Later I pasted my compiled text and asked for it to be updated | One document with all my audits | **I compared each audit with what I had posted on the issues** | **I compiled the final text myself.** I asked for corrected headings, and for a plain text version I could paste |
