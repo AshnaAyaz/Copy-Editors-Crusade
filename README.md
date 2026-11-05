@@ -37,6 +37,7 @@ Our Wiki topics serve general users and beginner mappers, while our SwaggerHub d
 | Peer review evidence | [Peer-Review-Summary.md](Peer-Review-Summary.md) |
 | API documentation | [API Reference](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/API-Reference) · [Combined SwaggerHub documentation](https://app.swaggerhub.com/apis-docs/copyeditorscrusade/Crusade/1.0.0) |
 | AI usage log | [AI-logs.md](AI-logs.md) |
+| Project overview video | [Watch the project video](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/Project-Overview-Video) |
 
 ## Team
 
