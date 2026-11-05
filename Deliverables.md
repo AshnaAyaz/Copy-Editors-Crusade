@@ -24,14 +24,14 @@ A checklist of Project 1 deliverables, their locations, owners, and completion s
 | 9 | Peer review | Peer review of all 25 topics, with assigned reviewers and feedback recorded in GitHub Issues | [Peer-Review-Summary.md](Peer-Review-Summary.md) and [GitHub Issues](https://github.com/AshnaAyaz/Copy-Editors-Crusade/issues) | All writers | Done |
 | 10 | GitHub project | Track assignments, audits, writing, reviews, and completion using Todo, In progress, In review, and Done | GitHub Project board and Issues | Ashna / All writers | Done |
 | 11 | Swagger API documentation | Document four read-only OSM API endpoints in one combined SwaggerHub project | [API Reference](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/API-Reference) and [Combined SwaggerHub documentation](https://app.swaggerhub.com/apis-docs/copyeditorscrusade/Crusade/1.0.0) | Ashna, Anna, Kadria, and Macwilliam | Done |
-| 12 | AI usage documentation | One shared, high-level log describing AI assistance, representative prompts, human verification, and accepted or rejected suggestions | [AI-logs.md](AI-logs.md) | Team members who used AI | In progress |
-| 13 | Final presentation | Present the audit findings, content strategy, before-and-after improvements, Wiki demo, API documentation, team workflow, and AI usage | Team presentation deck | Luigi Benetton; supported by the team | In progress |
+| 12 | AI usage documentation | One shared, high-level log describing AI assistance, representative prompts, human verification, and accepted or rejected suggestions | [AI-logs.md](AI-logs.md) | Team members who used AI | Done |
+| 13 | Final presentation | Present the audit findings, content strategy, before-and-after improvements, Wiki demo, API documentation, team workflow, and AI usage | Team presentation deck | Luigi Benetton; supported by the team | Done |
 
 ## Bonus
 
 | # | Deliverable | Description | Where it lives | Owner | Status |
 |---|---|---|---|---|---|
-| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | Final video link to be added after publication | Kadria Hussein | In progress |
+| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | Final video link to be added after publication | Kadria Hussein | Done |
 
 ## Topic count tracker
 
