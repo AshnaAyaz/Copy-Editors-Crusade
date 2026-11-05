@@ -31,7 +31,8 @@ A checklist of Project 1 deliverables, their locations, owners, and completion s
 
 | # | Deliverable | Description | Where it lives | Owner | Status |
 |---|---|---|---|---|---|
-| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | | 14 | Project overview video | A published video showcasing the documentation audit, improved Wiki pages, and API documentation. | [Project Overview Video](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/Project-Overview-Video) | Kadria Hussein | Done | | Kadria Hussein | Done |
+| 14 | Project overview video | A published video showcasing the documentation audit, improved Wiki pages, and API documentation. | [Project Overview Video](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/Project-Overview-Video) | Kadria Hussein | Done |
+|
 
 ## Topic count tracker
 
@@ -99,9 +100,10 @@ Jordan Stanchev provided the following clarifications on November 1, 2026:
 
 ## Final submission checks
 
-- [ ] Confirm all completed GitHub Issues are marked Done or closed.
-- [ ] Confirm all contributors' AI usage entries are included in AI-logs.md.
-- [ ] Confirm the combined SwaggerHub link opens correctly.
-- [ ] Confirm the final presentation is accessible to the team and instructor.
-- [ ] Publish the project overview video and add its link to the Wiki or repository.
-- [ ] Check the final README, Content Strategy, Audit, and Peer Review Summary links.
+- [x] Confirm all completed GitHub Issues are marked Done or closed.
+- [x] Confirm all contributors' AI usage entries are included in AI-logs.md.
+- [x] Confirm the combined SwaggerHub link opens correctly.
+- [x] Confirm the final presentation is accessible to the team and instructor.
+- [x] Publish the project overview video and add its link to the Wiki or repository.
+- [x] Check the final README, Content Strategy, Audit, and Peer Review Summary links.
+      
