@@ -1,75 +1,107 @@
+
 # Project Deliverables
 
-A checklist of everything Project 1 requires, where it lives, and who owns it.
+A checklist of Project 1 deliverables, their locations, owners, and completion status.
 
+**Team:** Copy Editors' Crusade  
+**Last updated:** November 5, 2026  
 **Final presentation:** November 5, 2026 (20 minutes + 5–10 minutes Q&A)
 
-Status values: Not started / In progress / Done
+**Status values:** Not started / In progress / Done
 
 ## Required deliverables
 
-| # | Deliverable | Requirement from the brief | Where it lives | Owner | Status |
+| # | Deliverable | Requirement and outcome | Where it lives | Owner | Status |
 |---|---|---|---|---|---|
-| 1 | Proposal | Instructor approves the product and documentation section | Repo: proposal file | Team | Done |
-| 2 | Documentation audit | Audit of the existing documentation | Repo: [Audit.md](Audit.md) | All writers | Not started |
-| 3 | Content Strategy | Problems, new structure, and team work plan | Repo: [Content-Strategy.md](Content-Strategy.md) | | Not started |
-| 4 | Content Strategy approval | Approval checkpoint with the instructor | Instructor | | Not started |
-| 5 | Rewritten topics | About 30 topics, 1 topic = 1 Wiki page *(the workflow table says 15; confirm with the instructor)* | Wiki | All writers | Not started |
-| 6 | Topic type mix | At least 1 concept, 2 tasks, 1 reference **per team member**, using the instructor's templates | Wiki | All writers | Not started |
-| 7 | Images | New and updated screenshots and diagrams | Wiki pages + repo `images/` | All writers | Not started |
-| 8 | Logical structure | Content logically structured and organized, for a defined audience | Wiki sidebar | | Not started |
-| 9 | Peer review | Evidence of team peer review visible in GitHub | Issue comments + [Peer-Review-Summary.md](Peer-Review-Summary.md) | All | Not started |
-| 10 | GitHub project | Work managed in a GitHub project | Project board | Ashna | In progress |
-| 11 | Swagger API documentation | Improve docs for 2–4 API endpoints in a new Swagger project | Repo: `api/openapi.yaml` (+ SwaggerHub link if required) | | Not started |
-| 12 | AI usage documentation | All prompts, verification process, and how AI suggestions were validated, edited, or rejected | Repo: `AI-Usage-Log.md` | Everyone using AI | Not started |
-| 13 | Final presentation | Before & after, key audit findings, strategic choices, live demo of 3–5 topics | Repo: `presentation/` | | Not started |
+| 1 | Proposal | Approved project scope: OpenStreetMap documentation overhaul | Initial course proposal | Team | Done |
+| 2 | Documentation audit | Audit the original documentation against eleven quality criteria; document detailed findings and evidence | [Audit.md](Audit.md) and [GitHub Issues](https://github.com/AshnaAyaz/Copy-Editors-Crusade/issues) | All writers | Done |
+| 3 | Content Strategy | Define audiences, problems, information structure, writing principles, workflow, and responsibilities | [Content-Strategy.md](Content-Strategy.md) | Team; coordinated by Ashna and reviewed by Kadria | Done |
+| 4 | Instructor clarification | Jordan confirmed access to the Content Strategy and advised the team to continue without waiting for separate approval | Moodle forum response, November 1, 2026 | Ashna / Jordan | Done |
+| 5 | Rewritten topics | 25 Wiki topics, with one focused topic per page | [GitHub Wiki](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki) | All five writers | Done |
+| 6 | Topic type mix | Each contributor writes 1 Concept, 3 Tasks, and 1 Reference | [GitHub Wiki](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki) and [Peer Review Summary](Peer-Review-Summary.md) | All five writers | Done |
+| 7 | Images | Relevant screenshots and diagrams, including descriptive alt text and captions where applicable | Wiki pages and repository `images/` folder | All writers | Done |
+| 8 | Logical structure | Organize topics by audience and information type, with a clear Wiki home page and sidebar | [GitHub Wiki](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki) | Team; coordinated by Ashna | Done |
+| 9 | Peer review | Peer review of all 25 topics, with assigned reviewers and feedback recorded in GitHub Issues | [Peer-Review-Summary.md](Peer-Review-Summary.md) and [GitHub Issues](https://github.com/AshnaAyaz/Copy-Editors-Crusade/issues) | All writers | Done |
+| 10 | GitHub project | Track assignments, audits, writing, reviews, and completion using Todo, In progress, In review, and Done | GitHub Project board and Issues | Ashna / All writers | Done |
+| 11 | Swagger API documentation | Document four read-only OSM API endpoints in one combined SwaggerHub project | [API Reference](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/API-Reference) and [Combined SwaggerHub documentation](https://app.swaggerhub.com/apis-docs/copyeditorscrusade/Crusade/1.0.0) | Ashna, Anna, Kadria, and Macwilliam | Done |
+| 12 | AI usage documentation | One shared, high-level log describing AI assistance, representative prompts, human verification, and accepted or rejected suggestions | [AI-logs.md](AI-logs.md) | Team members who used AI | In progress |
+| 13 | Final presentation | Present the audit findings, content strategy, before-and-after improvements, Wiki demo, API documentation, team workflow, and AI usage | Team presentation deck | Luigi Benetton; supported by the team | In progress |
 
 ## Bonus
 
-| # | Deliverable | Where it lives | Owner | Status |
-|---|---|---|---|---|
-| 14 | How-to video showing the improvements | Repo: `presentation/` (link) | | Not started |
+| # | Deliverable | Description | Where it lives | Owner | Status |
+|---|---|---|---|---|---|
+| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | Final video link to be added after publication | Kadria Hussein | In progress |
 
 ## Topic count tracker
 
-| Team member | Concepts (min 1) | Tasks (min 2) | References (min 1) | Total |
+Jordan confirmed that each of the five contributors should write one Concept, three Tasks, and one Reference.
+
+| Team member | Concepts | Tasks | References | Total |
 |---|---|---|---|---|
-| Anna Ovsiannikova | | | | |
-| Ashna Ayaz | | | | |
-| Belem | | | | |
-| Kadria | | | | |
-| Luigi Benetton | | | | |
-| Macwilliam Kwabena Appianing | | | | |
-| **Team total** | | | | |
+| Anna Ovsiannikova | 1 | 3 | 1 | 5 |
+| Ashna Ayaz | 1 | 3 | 1 | 5 |
+| Kadria Hussein | 1 | 3 | 1 | 5 |
+| Luigi Benetton | 1 | 3 | 1 | 5 |
+| Macwilliam Kwabena Appianing | 1 | 3 | 1 | 5 |
+| **Team total** | **5** | **15** | **5** | **25** |
 
-## AI usage log format
+The 25 Wiki topics and four API endpoints represent 29 documentation items in total.
 
-Use this format for every entry in `AI-Usage-Log.md`:
+Topic assignments, reviewers, and published-page links are recorded in [Peer-Review-Summary.md](Peer-Review-Summary.md).
 
-```
-## Entry
-- Who:
-- Date:
-- Tool: (Claude / ChatGPT / Gemini / ...)
-- Prompt:
-- What the AI suggested (short):
-- How I verified it: (e.g., tested the steps on openstreetmap.org, checked the original OSM page)
-- What I changed or rejected, and why:
-```
+## AI usage log
+
+The team maintains one shared [AI-logs.md](AI-logs.md) file.
+
+Jordan confirmed that a high-level AI usage log is acceptable and that no specific format is required.
+
+Each contributor's entry should summarize:
+
+- AI tools used and the documentation topics covered.
+- Representative prompts or overall prompt patterns.
+- The assistance provided by AI.
+- How suggestions were independently verified.
+- What was accepted, corrected, or rejected.
+
+Full prompt transcripts are not required.
 
 ## Presentation plan (20 minutes)
 
-| Part | Time | Content | Presenter |
-|---|---|---|---|
-| Introduction | 2 min | OSM, audience, team | |
-| Key audit findings | 4 min | Main problems, with "before" screenshots | |
-| Strategic choices | 4 min | New structure, templates, topic types | |
-| Live demo | 7 min | 3–5 topics: before vs after | |
-| Swagger API | 2 min | Endpoint docs: before vs after | |
-| Process and AI use | 1 min | GitHub workflow, peer review, AI verification | |
+**Primary presenter:** Luigi Benetton. Other team members may answer questions about their contributions as needed.
 
-## Questions to confirm with the instructor
+| Part | Time | Content |
+|---|---|---|
+| Introduction | 2 min | OpenStreetMap, target audiences, team, and project scope |
+| Key audit findings | 4 min | Recurring problems, original documentation, and audit evidence |
+| Strategic choices | 4 min | New information structure, templates, and topic types |
+| Live demo | 7 min | Representative before-and-after Wiki topics, including Concept, Task, and Reference examples |
+| Swagger API | 2 min | Four documented endpoints and improvements in the combined SwaggerHub project |
+| Process and AI use | 1 min | GitHub workflow, peer review, AI assistance, and human verification |
+| **Total** | **20 min** | |
 
-1. About 30 topics or 15 topics per group?
-2. Do issue comments count as peer review evidence for Wiki pages?
-3. Swagger: `openapi.yaml` file, SwaggerHub project link, or both?
+The optional project overview video may be shown during the presentation if the team can accommodate it within the available time.
+
+## Instructor clarifications
+
+Jordan Stanchev provided the following clarifications on November 1, 2026:
+
+1. **Topic count:** The team's proposed scope is acceptable, provided each contributor writes one Concept, one Reference, and three Tasks.
+2. **Images:** Original images may be reused where appropriate.
+3. **Navigation:** A list of pages is sufficient; a more elaborate navigation structure is optional.
+4. **Peer review:** One reviewer per topic is sufficient. GitHub Issues are acceptable but not required.
+5. **Pull requests:** Optional, not mandatory. The team agreed to edit shared repository files directly on `main`.
+6. **API documentation:** Submit a SwaggerHub project link. The selected four read-only endpoints are acceptable.
+7. **API presentation:** Present only the improved Swagger documentation.
+8. **AI usage:** One shared, high-level AI usage log is acceptable.
+9. **Presentation:** One primary presenter may represent the team, with others answering questions as needed.
+10. **Bonus video:** Optional deliverable; no required format.
+
+## Final submission checks
+
+- [ ] Confirm all completed GitHub Issues are marked Done or closed.
+- [ ] Confirm all contributors' AI usage entries are included in AI-logs.md.
+- [ ] Confirm the combined SwaggerHub link opens correctly.
+- [ ] Confirm the final presentation is accessible to the team and instructor.
+- [ ] Publish the project overview video and add its link to the Wiki or repository.
+- [ ] Check the final README, Content Strategy, Audit, and Peer Review Summary links.
