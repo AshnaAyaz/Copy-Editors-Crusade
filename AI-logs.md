@@ -70,3 +70,30 @@ The table summarizes my main prompt patterns and how I verified the results.
 | 7 | Consolidated project documentation | "Help me organize a high-level audit summary and AI usage log consistent with the team's approach and Jordan's instructions." | Suggestions for linking audit Issues to improved Wiki pages and summarizing AI usage and human verification. | Checked Jordan's forum response and compared the suggestions with the team's shared files and decisions. | Kept the audit summary concise, with detailed evidence in individual Issues, and avoided a lengthy prompt-by-prompt AI log. |
 | 8 | Project video | "Help me plan a short video showing the original documentation, audit findings, improved Wiki pages, and API documentation. Adapt the narration to my ActivePresenter slides." | A recording storyboard, narration scripts, SSML text-to-speech markup, and suggestions for visual annotations and transitions. | Created and reviewed the recordings in ActivePresenter, checked narration against the visible frames, and adjusted the sequence to demonstrate different documentation types. | Split the original recording into static frames for better control, revised narration that did not match the screen, and replaced a repeated Task example with a Concept example. |
 
+
+
+## AI usage – Anna Ovsiannikova
+
+Tool: Perplexity  
+Period: November 3–5, 2026  
+Topics: Tags and Map Features, How to Add an Address, GET /api/0.6/node/{id} (#39), and peer reviews.
+
+### Summary of use
+
+I used Perplexity to review articles and improve API documentation. It also helped me write feedback in English.
+
+I shared texts, comments, and screenshots. The AI suggested changes. I asked for simple words and shorter sentences. I chose which points to include in my comments.
+
+### Summary table
+
+| # | Area | What I asked for | What the AI produced | How I checked it | What I changed or did not use |
+|---|---|---|---|---|---|
+| 1 | Topic templates | “Does this article follow the correct template?” | A review of the sections. An explanation of each template. | I asked the AI to check the project document again. | I asked for small changes, not a full rewrite. |
+| 2 | My Wiki topics | “Explain this review comment. What should I change?” | Ideas for headings, sections, and related links. | I compared the ideas with the article and comment. | I focused on the requested changes. I left out extra content. |
+| 3 | The API task | “Do I need to rewrite the existing block?” | An explanation of the task and existing work. | I shared screenshots of Swagger and the Wiki page. | The AI first suggested a new block. After seeing the screenshots, it suggested updating the existing one. |
+| 4 | Node documentation | “Write the YAML. Follow my audit and the review comment.” | A draft with steps, fields, examples, and errors. | I asked the AI to compare it with my audit and the comment. It also checked OSM sources. | I asked for JSON details. The AI clarified `version`. It removed “fastest way” and corrected `visible` in JSON. |
+| 5 | Shorter API text | “Remove repeats. Make the text shorter.” | Shorter descriptions. | I compared them with the required content. | I kept the steps, field table, and examples. I removed repeated warnings. |
+| 6 | YAML checks | “Check the YAML with a validator or linter.” | A local check report and a YAML file. | I read the results for YAML, JSON, and XML. | I did not call this a full OpenAPI check. Live API responses were not confirmed. |
+| 7 | Peer reviews | “Is this article clear? Does it follow the requirements?” | Reviews of team members’ articles. | I compared the suggestions with the shared texts. I confirmed that the note-marker table was readable. | I chose the main points. For the notes article, I kept only the comment about links. |
+| 8 | English feedback | “Use friendly A2 English. Make it a suggestion.” | Short review comments. | I read each version. I asked for changes. | I chose simpler words and a softer tone. |
+| 9 | AI usage log | “Use the same format as my team.” | A draft of this log. | I compared it with our conversation. | I kept completed checks separate from unconfirmed checks. I did not say the changes were published. |
