@@ -97,3 +97,7 @@ I shared texts, comments, and screenshots. The AI suggested changes. I asked for
 | 7 | Peer reviews | “Is this article clear? Does it follow the requirements?” | Reviews of team members’ articles. | I compared the suggestions with the shared texts. I confirmed that the note-marker table was readable. | I chose the main points. For the notes article, I kept only the comment about links. |
 | 8 | English feedback | “Use friendly A2 English. Make it a suggestion.” | Short review comments. | I read each version. I asked for changes. | I chose simpler words and a softer tone. |
 | 9 | AI usage log | “Use the same format as my team.” | A draft of this log. | I compared it with our conversation. | I kept completed checks separate from unconfirmed checks. I did not say the changes were published. |
+
+## AI usage, Luigi Benetton
+
+I did not use AI directly in this project. I did review language prepared by project teammates and found it to be professional and straightforward, and I did cut a little extra verbiage from some texts.
