@@ -31,7 +31,7 @@ A checklist of Project 1 deliverables, their locations, owners, and completion s
 
 | # | Deliverable | Description | Where it lives | Owner | Status |
 |---|---|---|---|---|---|
-| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | Final video link to be added after publication | Kadria Hussein | Done |
+| 14 | Project overview video | A video showcasing the audit, improved Wiki pages, and API documentation. Recording and voice-over are prepared; final publication is pending. | | 14 | Project overview video | A published video showcasing the documentation audit, improved Wiki pages, and API documentation. | [Project Overview Video](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/Project-Overview-Video) | Kadria Hussein | Done | | Kadria Hussein | Done |
 
 ## Topic count tracker
 
