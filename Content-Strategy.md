@@ -127,7 +127,7 @@ Each writer owns one bundle (1 concept, 1 reference, 3 tasks). Four writers also
 | Ashna Ayaz | Bundle A (#11–#15) | GET /api/0.6/map (#37) | See assigned reviewers in GitHub Issues | GitHub repository and Project board; Content Strategy draft; combined SwaggerHub integration, Presentation slides |
 | Kadria Hussein | Bundle C (#21–#25) | GET /api/0.6/capabilities (#36) | See assigned reviewers in GitHub Issues | Content Strategy review; project overview video production |
 | Luigi Benetton | Bundle E (#31–#35) | – | See assigned reviewers in GitHub Issues | Live Presentation |
-| Macwilliam Kwabena Appianing | Bundle B (#16–#20) | GET /api/0.6/notes (#38) | See assigned reviewers in GitHub Issues | |
+| Macwilliam Kwabena Appianing | Bundle B (#16–#20) | GET /api/0.6/notes (#38) | See assigned reviewers in GitHub Issues | Proposal writing |
 
 Every team member records their own AI use in [AI-logs.md](AI-logs.md).
 
