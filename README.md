@@ -5,12 +5,12 @@ We are a team of five technical writers who have overhauled selected OpenStreetM
 
 ## About the project
 
-[OpenStreetMap](https://www.openstreetmap.org) is a free, community-built map of the world. Its beginner documentation lives on the [OSM Wiki](https://wiki.openstreetmap.org/wiki/Main_Page).
+[OpenStreetMap](https://www.openstreetmap.org) is a free, community-built map of the world. Its beginner documentation resides on the [OSM Wiki](https://wiki.openstreetmap.org/wiki/Main_Page).
 
 We:
 
 1. Audited the existing beginner documentation.
-2. Defined a content strategy for a new structure and audience.
+2. Defined a content strategy for a new structure based on the needs of existing audiences.
 3. Rewrote the content as separate **concept**, **task**, and **reference** topics, using our instructor's templates.
 4. Peer-reviewed every topic within the team.
 5. Improved the documentation for four read-only **OSM API** endpoints in SwaggerHub.
@@ -26,15 +26,15 @@ Our documentation serves three audiences:
 
 Our Wiki topics serve general users and beginner mappers, while our SwaggerHub documentation serves developers.
 
-## Where to find everything
+## Project resources
 
 | What | Where |
 |---|---|
 | Rewritten documentation | [GitHub Wiki](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki) |
-| Task tracking and audit Issues | [GitHub Issues](https://github.com/AshnaAyaz/Copy-Editors-Crusade/issues) |
+| Task tracking and audit issues | [GitHub Issues](https://github.com/AshnaAyaz/Copy-Editors-Crusade/issues) |
 | Audit | [Audit.md](Audit.md) |
 | Content strategy | [Content-Strategy.md](Content-Strategy.md) |
-| Peer review evidence | [Peer-Review-Summary.md](Peer-Review-Summary.md) |
+| Peer review log | [Peer-Review-Summary.md](Peer-Review-Summary.md) |
 | API documentation | [API Reference](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/API-Reference) · [Combined SwaggerHub documentation](https://app.swaggerhub.com/apis-docs/copyeditorscrusade/Crusade/1.0.0) |
 | AI usage log | [AI-logs.md](AI-logs.md) |
 | Project overview video | [Watch the project video](https://github.com/AshnaAyaz/Copy-Editors-Crusade/wiki/Project-Overview-Video) |
@@ -49,16 +49,16 @@ Our Wiki topics serve general users and beginner mappers, while our SwaggerHub d
 | Luigi Benetton | @LBenettonTCLoc |
 | Macwilliam Kwabena Appianing | @appianingmk-hash |
 
-## How we work
+## Project process
 
-1. Each topic has one **issue** on the Project board.
-2. The writer assigns themselves and moves the card from **Todo** to **In progress**.
-3. The writer audits the original OSM page and writes the new topic in the **Wiki**, using the instructor's template.
-4. The writer links the Wiki page in the issue and moves the card to **In review**.
-5. A teammate reviews the topic and leaves comments on the issue.
-6. The writer incorporates the necessary corrections and moves the card to **Done**.
+1. The team created one **issue** per topic on the project board.
+2. Topics were assigned to writers, who then moved the issue for each topic from **Todo** to **In progress**.
+3. The writer audited the original OSM page and wrote the new topic in the **wiki** using the instructor's template.
+4. The writer linked the wiki page in the issue and moved the issue to **In review**.
+5. A teammate reviewed the topic and left comments in the issue.
+6. The writer incorporated necessary corrections and moved the issue to **Done**.
 
-The detailed audit findings, peer-review comments, and improvements are recorded in the corresponding GitHub Issues.
+Detailed audit findings, peer-review comments, and improvements are recorded in the corresponding GitHub Issues.
 
 ## Templates
 
